@@ -16,8 +16,12 @@
 -#endif
 -// Arm64 simulator on x64 on Linux, Mac, or Windows.
 -//
--// The simulator case uses some inline assembly code, which cannot be
--// compiled with MSVC, so don't enable the trap handler in that case.
+-// The simulator case uses some inline assembly 
+\\
+code, which cannot be
+-// compiled with MSVC, so don't enable the trap 
+\\
+handler in that case.
 -// (MSVC #defines _MSC_VER, but so does Clang when targeting Windows, hence
 -// the check for __clang__.)
 -#elif V8_TARGET_ARCH_ARM64 && V8_HOST_ARCH_X64 && \

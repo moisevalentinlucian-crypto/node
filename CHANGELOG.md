@@ -78,7 +78,7 @@ release.
 <a href="doc/changelogs/CHANGELOG_V24.md#24.18.0">24.18.0</a><br/>
 <a href="doc/changelogs/CHANGELOG_V24.md#24.17.0">24.17.0</a><br/>
 <a href="doc/changelogs/CHANGELOG_V24.md#24.16.0">24.16.0</a><br/>
-<a href="doc/changelogs/CHANGELOG_V24.md#24.15.0">24.15.0</a><br/>
+<a href="[def2]">24.15.0</a><br/>
 <a href="doc/changelogs/CHANGELOG_V24.md#24.14.1">24.14.1</a><br/>
 <a href="doc/changelogs/CHANGELOG_V24.md#24.14.0">24.14.0</a><br/>
 <a href="doc/changelogs/CHANGELOG_V24.md#24.13.1">24.13.1</a><br/>
@@ -1404,3 +1404,7 @@ release.
 ## 2009.06.11, Version 0.0.3
 
 <a href="doc/changelogs/CHANGELOG_ARCHIVE.md#0.0.3">Moved to doc/changelogs/CHANGELOG\_ARCHIVE.md#0.0.3</a>.
+
+
+[def]: oc/changelogs/CHANGELOG_V24.md#24.15.
+[def2]: def

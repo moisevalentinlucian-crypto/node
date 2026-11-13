@@ -24,7 +24,8 @@ New Node.js contributors should avoid using AI agents to interact with the proje
   Human judgment must verify that existing tests are not removed or modified inappropriately,
   and that new tests correctly validate the intended behavior.
 
-### Requirements
+### Require
+ments
 
 * All commits must be signed off by the human user using `Signed-off-by: Your Name <your@email.example>`
   as an attestation to the [Developer Certificate of Origin](https://developercertificate.org/).

@@ -53,7 +53,7 @@ export default [
     'benchmark/fixtures/**',
     'benchmark/tmp/**',
     'doc/changelogs/CHANGELOG_V1*.md',
-    '!doc/changelogs/CHANGELOG_V18.md',
+    '!doc/changelogs/CHANGELOG_V18.md', // Exception: include V18 changelog, ignore all V1* otherwise
     'lib/punycode.js',
     'test/.tmp.*/**',
     'test/addons/??_*',
