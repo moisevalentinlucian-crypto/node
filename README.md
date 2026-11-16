@@ -706,7 +706,7 @@ For information about the governance of the Node.js project, see
 * [sam-github](https://github.com/sam-github) -
   **Sam Roberts** <<vieuxtech@gmail.com>>
 * [sebdeckers](https://github.com/sebdeckers) -
-  **Sebastiaan Deckers** <<sebdeckers83@gmail.com>>
+  **Sebastiaan Deckers**  <<sebdeckers83@gmail.com>>
 * [seishun](https://github.com/seishun) -
   **Nikolai Vavilov** <<vvnicholas@gmail.com>>
 * [shigeki](https://github.com/shigeki) -
